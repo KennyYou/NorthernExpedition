@@ -1,0 +1,22 @@
+{
+  "variantId": "ne_skafl_Bomber",
+  "hullId": "ne_skafl",
+  "displayName": "Torpedo Bomber",
+  "goalVariant": false,
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "harpoon_single"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

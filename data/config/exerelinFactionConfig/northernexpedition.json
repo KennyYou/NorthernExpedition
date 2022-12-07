@@ -1,0 +1,84 @@
+{
+	"playableFaction":true,
+	"corvusCompatible":true,
+    "marketSpawnWeight":2,	
+    
+	"rebelFleetSuffix":"Breakaways",
+	
+	"asteroidMiningFleetName":"Resource Expeditionary Force",	
+	
+	#"directoryUseShortName":true,
+	
+	"startRelationships":{
+		"independent":0.6,
+		"pirates":-1.0,
+		"tritachyon":-0.2,
+		"hegemony":0.2,
+		"luddic_church":-0.2,	
+		"luddic_path":-0.2,
+		"persean": -0.1,
+		"lions_guard":-0.1,			
+	    "sindrian_diktat":0.0,	
+		"remnant":-0.8,		
+	},
+
+	# Used to determine alliance alignment; also affects disposition towards other factions
+	"alignments":{
+		"corporate":-0.2,
+		"technocratic":0.1,
+		"militarist":0.5,
+		"diplomatic":0.5,
+		"ideological":-0.4,
+	},
+	"diplomacyTraits":["lowprofile", "neutralist", "stalwart"],
+	
+	"colonyExpeditionChance":0.55,
+    "colonyTargetValuator":"exerelin.campaign.colony.ColonyTargetValuator",		
+
+	# Number of entries must equal number of vengeance tiers (0-3)
+	"vengeanceLevelNames":["Charred", "Blaze", "Northern Inferno"],
+	"vengeanceFleetNames":["Charred", "Blaze", "Northern Inferno"],
+	"vengeanceFleetNamesSingle":["a Charred fleet", "a Blazing fleet", "the Northern Inferno"],
+	
+	# Randomly picked to add to a mining fleet
+	#"miningVariantsOrWings":[],
+
+    "startShipsSolo":[["ne_azumithmki_standard"],["ne_azumith_standard"]],
+	
+    "startShipsCombatSmall":["ne_azumithmki_standard", "ne_cryo_standard", "ne_crevasse_standard"], 
+	
+    "startShipsTradeSmall":["ne_azumith_standard", "ne_cryo_standard", "ne_floe_standard"],   
+    "startShipsCarrierSmall":["ne_cygne_standard", "ne_crevasse_standard", "ne_cryo_standard"], 
+	
+	"startShipsCombatLarge":["ne_accretion_standard", "ne_hailstorm_standard", "ne_shorefast_standard"],
+	
+	"startShipsTradeLarge":["ne_accretion_standard", "ne_toros_standard", "ne_thermokarst_standard"],
+	
+    "startShipsCarrierLarge":["ne_novafrost_assault", "ne_drift_standard"],
+	
+    #"startShipsExplorerLarge":["ne_accretion_standard"],	
+	
+    #"startShipsSuper":[""],	
+	
+	#"startSpecialItems":[[["", ""]],[["", ""]],	],	
+	
+   "industrySeeds":[
+ 		{"id":"militarybase", "mult":1},
+        {"id":"orbitalworks", "mult":1},
+        {"id":"fuelprod", "mult":0.1},
+        {"id":"lightindustry", "mult":0.1},
+    ],
+
+    "bonusSeeds":[
+        {"id":"nanoforge_pristine", "count":1},
+        {"id":"pocftlation_upsize", "count":1},	
+		{"id":"aiCore_military", "mult":0.4},		
+    ],
+
+
+	# Defense stations used in random sector
+	"defenceStations":[
+		{"ids":["orbitalstation", "battlestation", "starfortress"]},
+		{"ids":["orbitalstation_mid", "battlestation_mid", "starfortress_mid"]},
+	],
+}

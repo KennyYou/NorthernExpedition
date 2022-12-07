@@ -1,0 +1,22 @@
+{
+	"id":"ne_fprailgun_shot",
+	"specClass":"projectile",
+	"spawnType":"BALLISTIC_AS_BEAM",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"length":100.0,
+	"hitGlowRadius":300,
+	"width":50.0,
+	"fadeTime":0.3,
+	"fringeColor":[135,175,215,145],
+	"coreColor":[200,190,70,255],
+	"glowColor":[255,187,0,50],
+	"glowRadius":150,
+
+
+	"textureType":"ROUGH",  # now also used for "BALLISTIC_AS_BEAM", if specified
+	#"textureType":["graphics/fx/emp_arcs.png","graphics/fx/emp_arcs.png"],
+	"textureScrollSpeed":-256,
+	"pixelsPerTexel":1.0,
+	"passThroughMissiles":true,
+}

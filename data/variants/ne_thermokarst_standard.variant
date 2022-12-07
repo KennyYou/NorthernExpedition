@@ -1,0 +1,57 @@
+{
+  "variantId": "ne_thermokarst_standard",
+  "hullId": "ne_thermokarst",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 5,
+  "fluxVents": 4,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "harpoon",
+        "WS0002": "harpoon"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "lightag",
+        "WS0004": "lightag",
+        "WS0005": "lightdualmg",
+        "WS0006": "lightdualmg"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "heavyac",
+        "WS0008": "heavyneedler"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0009": "dualflak",
+        "WS0010": "dualflak"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0011": "pdburst_fighter",
+        "WS0012": "pdburst_fighter"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
