@@ -1,0 +1,167 @@
+{
+  "hullName": "Azumith MkI",
+  "hullId": "ne_azumithmki",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/azumithmk1.png",
+  "style": "NORTHERN",
+  "height": 134,
+  "width": 122,
+  "center": [61, 76],
+  "collisionRadius": 100,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 105.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [50, -27]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [50, 27]
+    },
+    {
+      "id": "WS0003",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 136,
+      "angle": -0,
+      "locations": [25, -29]
+    },
+    {
+      "id": "WS0004",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 136,
+      "angle": 0,
+      "locations": [25, 29]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": -90,
+      "locations": [-19, -42]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": 90,
+      "locations": [-19, 42]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": -135,
+      "locations": [-46, -33]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": 135,
+      "locations": [-46, 33]
+    },
+    {
+      "id": "WS0011",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 17,
+      "angle": 0,
+      "locations": [29.5, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-76, -35],
+      "length": 34.5,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 14,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-76, 35],
+      "length": 34.5,
+      "width": 14,
+      "angle": -180,
+      "contrailSize": 14,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-73, -23],
+      "length": 34,
+      "width": 11,
+      "angle": 180,
+      "contrailSize": 11,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-73, 23],
+      "length": 34,
+      "width": 11,
+      "angle": -180,
+      "contrailSize": 11,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-67.5, -13.5],
+      "length": 30.5,
+      "width": 7,
+      "angle": 180,
+      "contrailSize": 7,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-67.5, 13.5],
+      "length": 30.5,
+      "width": 7,
+      "angle": -180,
+      "contrailSize": 7,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -60, 9,
+    -73, 18,
+    -75.5, 41,
+    -11, 60.5,
+    7.5, 52,
+    55.5, 35,
+    56.5, 19.5,
+    16.5, 13.5,
+    36.5, 7.5,
+    36.5, -7.5,
+    16.5, -13.5,
+    56.5, -19.5,
+    55.5, -35,
+    7.5, -52,
+    -11, -60.5,
+    -75.5, -41,
+    -73, -18,
+    -60, -9
+  ]
+}

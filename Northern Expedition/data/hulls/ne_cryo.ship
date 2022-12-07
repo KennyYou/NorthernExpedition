@@ -1,0 +1,138 @@
+{
+  "hullName": "Cryo",
+  "hullId": "ne_cryo",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/cryo.png",
+  "style": "NORTHERN",
+  "height": 96,
+  "width": 90,
+  "center": [45, 48],
+  "collisionRadius": 70,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 71.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 213,
+      "angle": 42,
+      "locations": [35, 22]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 213,
+      "angle": -42,
+      "locations": [35, -22]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 213,
+      "angle": 133,
+      "locations": [-33, 22]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 213,
+      "angle": -133,
+      "locations": [-33, -22]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -90,
+      "locations": [-9, -40]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 90,
+      "locations": [-9, 40]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -90,
+      "locations": [6, -40]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 90,
+      "locations": [6, 40]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-48.5, 19.5],
+      "length": 42,
+      "width": 14,
+      "angle": 180,
+      "contrailSize": 14,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-48.5, -19.5],
+      "length": 42,
+      "width": 14,
+      "angle": -180,
+      "contrailSize": 14,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-38, 7],
+      "length": 37,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 12,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-38, -7],
+      "length": 37,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 12,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -37, 12.5,
+    -47.5, 13,
+    -48, 26,
+    -29, 38.5,
+    20.5, 38.5,
+    48, 23.5,
+    28.5, 10,
+    28.5, -10,
+    48, -23.5,
+    20.5, -38.5,
+    -29, -38.5,
+    -48, -26,
+    -47.5, -13,
+    -37, -12.5
+  ]
+}

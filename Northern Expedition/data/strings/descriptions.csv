@@ -1,0 +1,65 @@
+id,type,text1,text2,text3,text4,notes
+ne_novafrost,SHIP,"Built upon the central foundation of the frostcore primary power distribution system, exposing the distinctive radiators protruding from the center of the ship. Featuring a powerful integrated unique forward facing armament, drawing excess power from the core using the superheated projectile to be used as ammunition.
+
+The culmination of N.E technological innovations across decades provides exceptional power compared to similar systems of its size. Allowing for greater flexibility than the originally proposed design; an additional flight deck, capable of housing two squadrons of fighter craft. Coupled with powerful engines able to maximize usage from the frostcore. Layout of armament across the class 
+
+The Novafrost can be seen as the flagship of North Expedition tactical groups, with production only able to continue once each core is ready.",,,,
+ne_glacier,SHIP,"Featuring a distinctive hull, the glacier class is commonly seen attached to system security forces. Providing considerable frontal firepower, the presence of the glacier is a welcome addition to fleet captains. Offset by the general recognized lack of rear facing protective armament. As such are rarely seen without an accompanying escort to compensate for its glaring weakness. 
+
+Early expedition engineers attempted to fit prototype frostcore generators into the chassis of the class. Although successful, combat capabilities with the forced reduced crew complement proved too much of a compromise. Resulting in the installation of four previously proven NV-127 engines across two compartments. As a result mechanics at drydocks operate longer maintenance schedules with the ship due to increased complexity.
+
+“Get the new guy on it, practice makes perfect” - N.E drydock mechanic",,,,
+ne_cygne,SHIP,"Designed upon the general NE-030 chassis first introduced to simplify repairs and introduce a unified link between different types of destroyers. The design has seen extensive service and modification due to initial production requirements and upgrades throughout production and development.
+
+Designed as a light carrier, the cygne class allows smaller fleets to operate with fighter support without sacrificing mobility. In recognition of an increasing need to fill gaps devoid of fighter support in fleets, the direct response was the Cygne. A majority of the ships fielded by NE offer high mobility, with this class being no different. Considerable engine power allows proper disengagement and offhand combat roles to a limited extent should the need arise. 
+
+Similar to the Glacier series, protection from the rear is handled through expert positioning and the single medium turret.",,,,
+ne_drift,SHIP,"Boasting a powerful thrust-to-weight ratio and capable weapon mounts in turn leaves onboard crew quarters best described as ‘rugged’. Despite amenities for the crew, fleet commanders will find the ship capable of performing designated roles without issue.
+
+Originally designed as a prototype frigate to accommodate larger ships to fill the role of escorting expedition fleets whilst testing the efficiency of novrinium. The drift class proved superb in testing grounds and quickly entered production. ",,,,
+ne_floe,SHIP,"Originally designed as an civilian light freighter, eventually recognition of the dangers within the Sector lead to the small overhaul of two additional mounts otherwise thought unneeded for its role. 
+
+Many of the ships operated by the N.E are not rarely specialized, with the Floe being no different. Capable frontal collision handling and heavy armor meant to withstand debris from operation in semi-hazardous conditions. Refitting the ship to provide two separate small mounts has allowed a secondary role, as seen in small-scale space mining operations. Otherwise seen hauling cargo or as low cost private couriers to relatively close destinations.",,,,
+ne_azumith,SHIP,"Designed upon the general NE-030 chassis first introduced to simplify repairs and introduce a unified link between different types of destroyers. The design has seen extensive service and modification due to initial production requirements and upgrades throughout production and development.
+
+Among ships of the class, the Azumith offers a substantial gunnery platform to deal with enemy opposition. Frequently deployed in both minor skirmishes and larger fleet battles. Decent speed coupled with numerous weapon emplacements allows for an overall impressive ship package, and has been seen selected more than once as the flagship for smaller fleets. 
+
+A common complaint among crews fielding the Azumith is the general lack of range needed to safely engage ships.",,,,
+ne_azumithmki,SHIP,"Designed upon the general NE-030 chassis first introduced to simplify repairs and introduce a unified link between different types of destroyers. The design has seen extensive service and modification due to initial production requirements and upgrades throughout production and development.
+
+A modification of the original Azumith design, dubbed the big brother of the two ships - although being stockier. In field feedback by captains and crew, led to several design choices to upgrade existing ships. Notably, by reducing frontal hull protrusion and introducing two additional medium size hardpoints. Notable minor modifications to onboard software, experienced captains transferred from preexisting Azumith ships report better performance with little need of crew retraining.",,,,
+ne_thermokarst,SHIP,"Heavily armored and well armed, the thermokarst has no difficulty engaging in frontline fleet action alongside dedicated combat ships. Special construction methods used during initial phases ensure a reliable hull. Being able to hold its own during one-on-one engagements. Fleet captains would be wise to employ the ship in secondary roles as there has been more than one occasion of overzealous fleet commanders being stranded after the unfortunate loss of their fuel supplies.
+
+In recognition of the vast distance needed to travel to distant stars. A requirement of a highly durable and capable tanker was issued to the NESDT (Northern Expedition Support and Design Team) to fill the need. Countless hours were poured into advanced research and design only to end in failed prototypes. Infighting among senior design members nearly led to the disbandment of the project. 
+
+Conclusive testing revealed manufacturing methods previously only seen by civilian shipyards were adapted to fit durability needs.",,,,
+ne_cryo,SHIP,"Nemesis of fighter pilots, created for the sole purpose of locking down fighter involvement in engagements. Primarily suited for anti-fighter weapons, deployment of cryo class frigates are usually in escort formations. Guarding larger ships from fighter harassment and strikes, the odd transition into other fightering roles are not unheard of.
+
+Combat related losses caused by able fighter pilots in simulated wargames lit a fire under commanders. Quickly cleared for active deployment allowing for additional field testing for anti fighter measures. ",,,,
+ne_crevasse,SHIP,"Originally used for atmospheric operation ferrying goods across frigid temperatures. The Crevasse has been upgraded for active military use as a heavy frigate.
+With thick armor offering the onboard crew substantial protection, and beloved of the captains and smugglers alike. Once vast interior spaces meant to transport cargo have been largely replaced by necessary militarized subsystems.
+ 
+Rumors of illegally modified ships not authorized by NE officials have existed ever since the inception of the ship. But such a common platform makes identifying such ships difficult without needing to cross examine with manufacturing serial numbers. ",,,,
+ne_hailstorm,SHIP,A rare dedicated missile support hull designed to spearhead pathfinder exploratory groups. With much of the onboard space either taken by equipment for high sensory or military applications. Ships are often seen accompanying a larger fleet capable of supplying and maintaining such specialized ships in deep space. ,,,,
+ne_toros,SHIP,"Purposely designed to fulfill the need of both fuel and supply requirements of resupply for stations and fleets. The utilitarian design, friendly for the intended role, proves less so for the crew aboard. With the only accessible crew and general maintenance quarters only around the ‘frame’ of the ship. Many onboard engineers are often seen frantically navigating the long stretches of the ship to reach subsystems.
+
+Able to provide suppressive elements with dual missile emplacements. Mounting of such weapon systems are often ignored by seasoned crews opting to divert more power to shields for increased survivability. ",,,,
+ne_shorefast,SHIP,"The Shorefast provides a strong defensive backbone bridging the gap for a bulkier more resilient destroyer able to be fielded by the Expedition. Historically, traditional Northern Expedition forces favored maneuverable ships able to strike deep within enemy lines before retreating. Repeated incursions and unexpected losses with remnant fleets, represented a turning point internally within Expedition armada doctrine. 
+
+A more progrssive movement was implemented adapting pre-existing fleets to allow for more flexible compositions. The Shorefast was the culmination of the joint effort between military and civilian contractors. Carrying a considerable arrangement of mounts for the class. The onboard damper field allows for extended engagements in frontline combat. Experienced captains aboard vessels are not uncommon, in part due to extensive training and rugged definitions of the ship.",,,,
+ne_accretion,SHIP,"Created as a deep space exploration vessel, elements and challenges of deep space were largely unknown at the time of design. The NESDT (Northern Expedition Support and Design Team) was issued with the daunting trial of outfitting a capable vessel able to venture into distant stars. The result was a powerful jack-of-all trades ship able to outperform similarly sized vessels without sacrifice to key areas. Aggressive frontal arcs and decent maneuverability meant captains could commit aggressive maneuvers, otherwise seen as reckless.  
+
+The result of the advanced mixed package is reflected in the high cost of production. Sporting a scaled down yet effective frostcore engine. The distinct glowing radiators are a common identification method for spotting returning vessels entering Expedition airspace. Able to be operated as independent or semi-independent, recently they are commonly seen as flagships or a part of larger fleet compositions.",,,,
+,,,,,,
+,,,,,,
+ne_polaire,SHIP,A common all-around fighter employed by Northern Expedition carrier groups. Commendable shields paired with impressive firepower allows the Polaire to excel in dogfighting scenarios.,,,,
+ne_yowling,SHIP,The yowling class has seen large success in being deployed alongside supporting strike craft capable of unleashing deadly payload.,,,,
+ne_skafl,SHIP,"A reliable torpedo strike craft, the Skafl is often at the spearhead of strike forces. Primarily focused on finishing exposed ships.",,,,
+,,,,,,
+ne_austice,PLANET,,,,,
+,,,,,,
+northernexpedition,FACTION,"After the successful discovery of the strategically important resource ‘novrinium’ by an early Domain exploration fleet by the Outer Northern Expeditionary Force. Communications quickly ceased before accurate coordinates would be successfully transferred. 
+
+As the collapse of the Domain gate network happened quickly and without warning. Critical food supplies dwindled, harrowing stories of survival among the previously growing population became commonplace. The newly founded joint military/civilian government laid the groundwork to what would ultimately become the centralized government of the Northern Expedition. Once again taking up the mantle set aside by their forebears, pockets of civilization planetside banded together spurred on by the motto, “Strength through Unity; Unity through sacrifice”. Utilizing the highly abundant and efficient ‘novrinium’ into industrial and domestic applications. The population of Asutice which once faced extinction slowly grew sizable, once again ready to explore the reaches beyond their sector. 
+
+Isolated from the core sector worlds, the advantages of heightened knowledge of other worlds propagated by sporadic trade pushed the decision to slowly open borders. Decades of growth and development branched Northern Expedition into a small but powerful force within the Northern space. ",,,,

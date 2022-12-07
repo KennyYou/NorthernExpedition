@@ -1,0 +1,85 @@
+{
+  "hullName": "Floe",
+  "hullId": "ne_floe",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/floe.png",
+  "style": "NORTHERN",
+  "height": 87,
+  "width": 72,
+  "center": [36, 43.5],
+  "collisionRadius": 59.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 64,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 293,
+      "angle": -90,
+      "locations": [0.5, -28]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 293,
+      "angle": 90,
+      "locations": [0.5, 28]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 6,
+      "angle": 180,
+      "locations": [-30.5, -0.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-43.5, 16],
+      "length": 32,
+      "width": 13,
+      "angle": 180,
+      "contrailSize": 13,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-43.5, -16],
+      "length": 32,
+      "width": 13,
+      "angle": -180,
+      "contrailSize": 13,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -31, -6,
+    -43, -11,
+    -43.5, -22,
+    -10.5, -27.5,
+    -4, -36.5,
+    6, -36.5,
+    13, -27,
+    43.5, -23.5,
+    43.5, -15,
+    24, -15,
+    36.5, -7,
+    36.5, 7,
+    24, 15,
+    43.5, 15,
+    43.5, 23.5,
+    13, 27,
+    6, 36.5,
+    -4, 36.5,
+    -10.5, 27.5,
+    -43.5, 22,
+    -43, 11,
+    -31, 6
+  ]
+}
