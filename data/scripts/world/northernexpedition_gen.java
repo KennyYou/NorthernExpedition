@@ -48,47 +48,5 @@ public class northernexpedition_gen implements SectorGeneratorPlugin {
         northernexpedition.setRelationship(diktat.getId(), -0.1f);
         northernexpedition.setRelationship(guard.getId(), -0.2f);     
                  
-         //modded factions
-        northernexpedition.setRelationship("SCY", RepLevel.SUSPICIOUS);        
-        northernexpedition.setRelationship("pn_colony", RepLevel.NEUTRAL);       
-        northernexpedition.setRelationship("neutrinocorp", RepLevel.SUSPICIOUS);        
-        northernexpedition.setRelationship("dassault_mikoyan", RepLevel.SUSPICIOUS); 
-        northernexpedition.setRelationship("JYD", RepLevel.NEUTRAL);        
-        northernexpedition.setRelationship("diableavionics", RepLevel.NEUTRAL);		
-        northernexpedition.setRelationship("cabal", RepLevel.NEUTRAL);        
-        northernexpedition.setRelationship("the_deserter", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("blade_breakers", RepLevel.SUSPICIOUS);        
-        northernexpedition.setRelationship("the_deserter", RepLevel.SUSPICIOUS);
-		northernexpedition.setRelationship("kingdom_of_terra", RepLevel.SUSPICIOUS);
-		northernexpedition.setRelationship("unitedpamed", RepLevel.SUSPICIOUS);		
-        northernexpedition.setRelationship("brighton", RepLevel.NEUTRAL);
-		northernexpedition.setRelationship("hiigaran_descendants", RepLevel.NEUTRAL);
-		northernexpedition.setRelationship("prv", RepLevel.SUSPICIOUS);		
-        northernexpedition.setRelationship("scalartech", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("star_federation", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("kadur_remnant", RepLevel.SUSPICIOUS);		
-        northernexpedition.setRelationship("keruvim", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("mayasura", RepLevel.NEUTRAL);	      
-        northernexpedition.setRelationship("noir", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("Lte", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("GKSec", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("gmda", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("oculus", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("nomads", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("thulelegacy", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("infected", RepLevel.HOSTILE);
-        northernexpedition.setRelationship("ORA", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("HMI", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("draco", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("roider", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("ironshell", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("magellan_protectorate", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("exalted", RepLevel.HOSTILE);
-        northernexpedition.setRelationship("fang", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("xhanempire", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("xlu", RepLevel.NEUTRAL);
-        northernexpedition.setRelationship("fpe", RepLevel.SUSPICIOUS);
-        northernexpedition.setRelationship("al_ars", RepLevel.SUSPICIOUS);   
-
     }
 }
