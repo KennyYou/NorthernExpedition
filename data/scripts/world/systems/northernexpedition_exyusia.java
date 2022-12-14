@@ -50,7 +50,6 @@ import com.fs.starfarer.api.campaign.econ.MarketAPI;
 import com.fs.starfarer.api.util.Misc;
 import org.lazywizard.lazylib.MathUtils;
 import data.scripts.world.AddMarketplace;
-import static data.scripts.util.northernexpedition.txt;
 
 public class northernexpedition_exyusia {	
 
