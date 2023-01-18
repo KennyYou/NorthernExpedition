@@ -2,8 +2,8 @@
     "id": "northernexpedition",
     "name": "Northern Expedition",
     "author": ".Wav",
-    "version": "0.9.0",
-    "description": "Northern Expedition Faction Mod v0.9",
+    "version": "0.9.1",
+    "description": "Northern Expedition Faction Mod v0.9.1",
     "gameVersion": "0.95.1a-RC6",
 	"modPlugin":"data.scripts.NEModPlugin",
 	"dependencies": [
